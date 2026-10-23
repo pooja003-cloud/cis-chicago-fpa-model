@@ -1,8 +1,5 @@
 # Funding Shock Stress Test: Communities In Schools of Chicago
 
-> **Independent portfolio project** using public IRS Form 990 data. Not affiliated with
-> Communities In Schools of Chicago. Not financial advice.
-
 ## The question
 Communities In Schools (CIS) of Chicago connects students in 239 Chicago Public Schools with
 social, health and enrichment services through about 200 partner organizations. Its expenses
