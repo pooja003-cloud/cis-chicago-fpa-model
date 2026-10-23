@@ -1,0 +1,33 @@
+section,line,item,FY2021,FY2022,FY2023,FY2024,FY2025,notes
+Part I,5,Total number of employees (W-3),68,70,78,86,102,W-3 count for the calendar year
+Part I,6,Number of volunteers,6,2,2,26,24,
+Part I,12,Total revenue,4386114,9274759,11092506,8228926,6964065,
+Part I,18,Total expenses,5272685,5841559,6256478,7774695,8074019,
+Part III,4a-4c,Program scope: schools and students served,177 CPS schools; directly works with 500 students,172 CPS schools; directly works with 1300 students,172 CPS schools; directly works with 1300 students,"239 CPS schools; directly works with 80,000 students","239 CPS schools; directly works with 83,000 students",Definition of students served changes in FY2024; not comparable across years
+Part VIII,1a,Federated campaigns,0,0,0,0,0,
+Part VIII,1c,Fundraising events (contributions portion),0,282250,687818,595000,720989,
+Part VIII,1d,Related organizations,0,0,0,0,0,
+Part VIII,1e,Government grants (contributions),1632069,42688,163214,580383,989248,Not shown in ProPublica's summary view
+Part VIII,1f,"All other contributions, gifts, grants",2182750,8257880,9367887,6150098,4482874,"Foundations, corporations, individuals"
+Part VIII,1g,Noncash contributions,29736,27819,979809,147044,106827,"Memo item, included in 1a-1f"
+Part VIII,1h,Total contributions,3814819,8582818,10218919,7325481,6193111,
+Part VIII,2a-2f,Program service revenue: description of each line,School Service Contracts,School Service Contracts,School Service Contracts,School Service Contracts,School Service Contracts,
+Part VIII,2g,Total program service revenue,556500,698900,718500,655750,560000,
+Part VIII,3,Investment income,26328,12739,187515,263340,228483,
+Part VIII,8c,Net income from fundraising events,0,-20336,-2968,-17218,-21066,
+Part VIII,11e,Other revenue total,16851,0,0,0,0,
+Part IX,5-10,"Total personnel costs (lines 5-10), column A",4738906,5009910,5134981,6449042,6775145,"Salaries, benefits and payroll taxes; FY2024 reports staff wages on line 6, not 7"
+Part IX,16,"Occupancy (line 16), column A",134034,158935,177544,233048,270167,
+Part IX,25 (A),Total functional expenses,5272685,5841559,6256478,7774695,8074019,
+Part IX,25 (B),Program service expenses,4038909,4174201,4305748,5609813,5710185,Program expense ratio = B / A
+Part IX,25 (C),Management and general expenses,553847,712251,907414,819140,1027814,
+Part IX,25 (D),Fundraising expenses,679929,955107,1043316,1345742,1336020,
+Part X,1 (end of year),Cash - non-interest-bearing,470094,759876,1277540,1494209,1481238,
+Part X,2 (end of year),Savings and temporary cash investments,799577,1130215,1121973,0,0,
+Part X,3 (end of year),"Pledges and grants receivable, net",1076282,1994297,7058262,7160474,6404033,Promised gifts not yet received in cash
+Part X,11 (end of year),Investments - publicly traded securities,2894236,4807268,3737202,5367903,5230613,
+Part X,16 (end of year),Total assets,5445597,8973055,14055139,14939265,13761145,
+Part X,26 (end of year),Total liabilities,285627,386191,610489,1009432,861696,
+Part X,27 (end of year),Net assets WITHOUT donor restrictions,2958298,7349782,6920850,6205605,6396696,The freely spendable reserve
+Part X,28 (end of year),Net assets WITH donor restrictions,2201672,1237082,6523800,7724228,6502753,Restricted by donors (time or purpose)
+Part X,32 (end of year),Total net assets,5159970,8586864,13444650,13929833,12899449,

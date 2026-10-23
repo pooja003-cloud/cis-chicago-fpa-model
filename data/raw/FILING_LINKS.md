@@ -1,6 +1,6 @@
 # Form 990 Filing Links: Communities In Schools of Chicago (EIN 36-3591326)
 
-Fiscal years end June 30. Save each PDF into this folder as `CIS_Chicago_990_FY20XX.pdf`.
+Fiscal years end June 30.
 
 | Fiscal year | Filed | View filing (web version) | PDF |
 |---|---|---|---|
@@ -12,10 +12,6 @@ Fiscal years end June 30. Save each PDF into this folder as `CIS_Chicago_990_FY2
 
 Organization page: https://projects.propublica.org/nonprofits/organizations/363591326
 
-## How to fill `990_extraction_template.csv`
-1. Open one year's filing. The web version ("View filing") is searchable with Cmd+F.
-2. Go section by section (Part VIII → Part IX → Part X), using the **end-of-year** column on Part X.
-3. Type the number into that year's column. Whole dollars, no $ or commas.
-4. Rows marked **Check** are pre-filled from ProPublica; confirm they match the filing.
-5. Do **Must have** rows first; **Nice to have** rows can wait.
-6. Quick check per year: Part X line 27 + line 28 should equal line 32.
+## How the data was used
+Line items from each filing are in `cis_chicago_990_line_items.csv` (whole US dollars; Part X
+figures are end of year). Every year passes the tie-out checks listed in `../SOURCES.md`.

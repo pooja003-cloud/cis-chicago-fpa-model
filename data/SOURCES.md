@@ -14,20 +14,21 @@ from a Form 990) or **Assumption** (my estimate, with the reason stated).
 | Part IX – Statement of Functional Expenses | Expenses by type and by function (program / management & general / fundraising) |
 | Part X – Balance Sheet | Cash, investments, pledges receivable, net assets without / with donor restrictions (lines 27–28) |
 | Part III – Program Service Accomplishments | Program descriptions, schools / students served (if reported) |
-| Schedule B (public version) | Size of large contributions (donor names are redacted) |
 
 ## Context sources
 - The 74, "Three Chicago nonprofits get $55 million…" (Nov 2018) — AbbVie's $6M gift to CIS Chicago:
   https://www.the74million.org/article/three-chicago-nonprofits-get-55-million-to-help-low-income-students-graduate-largest-gift-ever-communities-in-schools/
 
+## Checks
+Line items were taken from ProPublica's web render of each e-filed return. Every year passes
+these tie-outs: Part VIII 1a-1f = 1h; revenue lines = line 12; Part IX columns B + C + D = A;
+Part X lines 27 + 28 = 32; assets - liabilities = net assets; each opening balance sheet equals
+the prior year's close. Key lines were also verified by hand against the filings.
+
 ## Known gaps
-- FY2025 has no PDF on ProPublica yet; use the web version of the e-filed return.
+- FY2025 has no PDF on ProPublica yet; the web version of the e-filed return was used.
 - ProPublica's summary does not show government grants (Part VIII line 1e) or restricted vs.
-  unrestricted net assets (Part X lines 27-28); these must be read from the filings.
-- Schedule B details are often not included in the public copy.
-- Line items were extracted from ProPublica's web render of each e-filed return and passed
-  all tie-out checks (1a-1f = 1h; revenue lines = line 12; Part IX B+C+D = A; Part X 27+28 = 32;
-  assets - liabilities = net assets; opening balance sheet = prior year's closing).
+  unrestricted net assets (Part X lines 27-28); these were read from the filings.
 - FY2024 reports staff wages on Part IX line 6 instead of line 7; personnel cost uses lines 5-10 combined.
 - Part III "students served" changes definition (500 -> 1,300 -> 80,000+), so it is not comparable across years.
 - FY2021 government grants ($1.63M) are far above other years; the reason is not stated on the face of the return.
