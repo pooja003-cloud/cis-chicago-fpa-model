@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Excel temporary / lock files (created while a workbook is open)
+~$*.xlsx
+~$*.xlsm
+*.tmp
+
+# Python (if you add a helper script later)
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Editors
+.vscode/
+.idea/

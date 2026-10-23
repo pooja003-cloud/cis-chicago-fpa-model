@@ -1,0 +1,34 @@
+section,line,item,priority,FY2021,FY2022,FY2023,FY2024,FY2025,notes
+Part I,5,Total number of employees (W-3),Nice to have,68,70,78,86,102,Use for cost per employee; Extracted from e-file by Claude; tie-out checks passed
+Part I,6,Number of volunteers,Nice to have,6,2,2,26,24,Extracted from e-file by Claude; tie-out checks passed
+Part I,12,Total revenue,Check,4386114,9274759,11092506,8228926,6964065,Pre-filled from ProPublica summary - confirm against the filing; Extracted from e-file by Claude; tie-out checks passed
+Part I,18,Total expenses,Check,5272685,5841559,6256478,7774695,8074019,Pre-filled from ProPublica summary - confirm against the filing; Extracted from e-file by Claude; tie-out checks passed
+Part III,4a-4c,Program descriptions: schools / students / social workers served,Nice to have,177 CPS schools; directly works with 500 students,172 CPS schools; directly works with 1300 students,172 CPS schools; directly works with 1300 students,"239 CPS schools; directly works with 80,000 students","239 CPS schools; directly works with 83,000 students","Write the number and unit, e.g. '40 schools'; Extracted from e-file by Claude; tie-out checks passed; definition of 'students' changes in FY2024, do not compare across years"
+Part VIII,1a,Federated campaigns,Must have,0,0,0,0,0,Extracted from e-file by Claude; tie-out checks passed
+Part VIII,1c,Fundraising events (contributions portion),Must have,0,282250,687818,595000,720989,Extracted from e-file by Claude; tie-out checks passed
+Part VIII,1d,Related organizations,Must have,0,0,0,0,0,May include CIS national office; Extracted from e-file by Claude; tie-out checks passed
+Part VIII,1e,Government grants (contributions),Must have,1632069,42688,163214,580383,989248,Key: ProPublica summary does not show this line; Extracted from e-file by Claude; tie-out checks passed
+Part VIII,1f,"All other contributions, gifts, grants",Must have,2182750,8257880,9367887,6150098,4482874,"Foundations, corporations, individuals; Extracted from e-file by Claude; tie-out checks passed"
+Part VIII,1g,"Noncash contributions (memo, included in 1a-1f)",Nice to have,29736,27819,979809,147044,106827,Extracted from e-file by Claude; tie-out checks passed
+Part VIII,1h,Total contributions,Must have,3814819,8582818,10218919,7325481,6193111,Pre-filled from ProPublica summary - confirm against the filing
+Part VIII,2a-2f,Program service revenue: description of each line,Must have,School Service Contracts,School Service Contracts,School Service Contracts,School Service Contracts,School Service Contracts,Who pays? e.g. CPS contract; Extracted from e-file by Claude; tie-out checks passed
+Part VIII,2g,Total program service revenue,Must have,556500,698900,718500,655750,560000,Pre-filled from ProPublica summary - confirm against the filing
+Part VIII,3,Investment income,Must have,26328,12739,187515,263340,228483,Extracted from e-file by Claude; tie-out checks passed
+Part VIII,8c,Net income from fundraising events,Must have,0,-20336,-2968,-17218,-21066,Extracted from e-file by Claude; tie-out checks passed
+Part VIII,11e,Other revenue total,Must have,16851,0,0,0,0,Extracted from e-file by Claude; tie-out checks passed
+Part IX,5-10,"Total personnel costs (sum of lines 5,6,7,8,9,10), column A",Must have,4738906,5009910,5134981,6449042,6775145,"Salaries + benefits + payroll taxes; Extracted from e-file by Claude; tie-out checks passed; FY2024 reports staff wages on line 6, not 7"
+Part IX,16,"Occupancy, column A",Nice to have,134034,158935,177544,233048,270167,Extracted from e-file by Claude; tie-out checks passed
+Part IX,25 (A),Total functional expenses,Must have,5272685,5841559,6256478,7774695,8074019,Pre-filled from ProPublica summary - confirm against the filing
+Part IX,25 (B),Program service expenses,Must have,4038909,4174201,4305748,5609813,5710185,Program expense ratio = B / A; Extracted from e-file by Claude; tie-out checks passed
+Part IX,25 (C),Management and general expenses,Must have,553847,712251,907414,819140,1027814,Extracted from e-file by Claude; tie-out checks passed
+Part IX,25 (D),Fundraising expenses,Must have,679929,955107,1043316,1345742,1336020,Extracted from e-file by Claude; tie-out checks passed
+Part X,1 (end of year),Cash - non-interest-bearing,Must have,470094,759876,1277540,1494209,1481238,Use column B (end of year); Extracted from e-file by Claude; tie-out checks passed
+Part X,2 (end of year),Savings and temporary cash investments,Must have,799577,1130215,1121973,0,0,Extracted from e-file by Claude; tie-out checks passed
+Part X,3 (end of year),"Pledges and grants receivable, net",Must have,1076282,1994297,7058262,7160474,6404033,Promised gifts not yet received in cash; Extracted from e-file by Claude; tie-out checks passed
+Part X,11 (end of year),Investments - publicly traded securities,Must have,2894236,4807268,3737202,5367903,5230613,Extracted from e-file by Claude; tie-out checks passed
+Part X,16 (end of year),Total assets,Check,5445597,8973055,14055139,14939265,13761145,Pre-filled from ProPublica summary - confirm against the filing; Extracted from e-file by Claude; tie-out checks passed
+Part X,26 (end of year),Total liabilities,Check,285627,386191,610489,1009432,861696,Pre-filled from ProPublica summary - confirm against the filing; Extracted from e-file by Claude; tie-out checks passed
+Part X,27 (end of year),Net assets WITHOUT donor restrictions,Must have,2958298,7349782,6920850,6205605,6396696,KEY: the freely spendable reserve; Extracted from e-file by Claude; tie-out checks passed
+Part X,28 (end of year),Net assets WITH donor restrictions,Must have,2201672,1237082,6523800,7724228,6502753,Restricted by donors (time or purpose); Extracted from e-file by Claude; tie-out checks passed
+Part X,32 (end of year),Total net assets,Check,5159970,8586864,13444650,13929833,12899449,Pre-filled from ProPublica summary - confirm against the filing; Extracted from e-file by Claude; tie-out checks passed
+Schedule B,-,Largest contributions (amounts only; names redacted),Nice to have,Not extracted (donor detail not in public e-file),Not extracted (donor detail not in public e-file),Not extracted (donor detail not in public e-file),Not extracted (donor detail not in public e-file),Not extracted (donor detail not in public e-file),Often not in the public copy; skip if missing; Extracted from e-file by Claude; tie-out checks passed
