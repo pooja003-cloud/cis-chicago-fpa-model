@@ -42,6 +42,16 @@ Without new gifts, reserves would run out around **FY2031**.
 Runway = unrestricted net assets ÷ monthly expenses. The base case releases existing restricted
 net assets down to $1.24M (the five-year low); the range shows no release and full release.
 
+## Variance: what turned a surplus into a deficit (FY2024 → FY2025)
+CIS's budget isn't public, so the comparison is FY2025 actual vs FY2024 actual.
+- **It was mainly a revenue problem.** Revenue fell 15% ($1.3M), driven by non-government
+  contributions (down $1.5M) as the large FY2022–FY2023 gifts rolled off. Government grants
+  partly offset this (up $0.4M).
+- **Costs grew only 3.8%.** Personnel rose $0.3M: 16 more staff (86 → 102) added about $1.2M
+  (volume), offset by about $0.9M from a lower cost per employee ($75k → $66k, rate). The W-3
+  headcount includes part-year staff, so both effects may be overstated.
+- **Management & general grew 25%**, the fastest of any cost line, while program services grew 1.8%.
+
 **Recommendations:** hold cost growth near 3% (cuts the gift need to $1.3M a year), grow
 recurring unrestricted revenue, and manage reserves on an unrestricted, cash basis by tracking
 pledge collections. Details in the [memo](reports/CIS_Chicago_Memo.pdf).
@@ -49,7 +59,7 @@ pledge collections. Details in the [memo](reports/CIS_Chicago_Memo.pdf).
 ## What's inside
 | Path | Contents |
 |---|---|
-| `excel-model/CIS_Chicago_FPA_Model.xlsx` | 5-tab model with live formulas and a scenario dropdown |
+| `excel-model/CIS_Chicago_FPA_Model.xlsx` | 6-tab model with live formulas and a scenario dropdown |
 | `reports/CIS_Chicago_Memo.pdf` | 1-page memo: findings and recommendations |
 | `data/raw/cis_chicago_990_line_items.csv` | Every Form 990 line used, FY2021–FY2025 |
 | `data/raw/FILING_LINKS.md` | Links to each year's filing |
@@ -61,8 +71,9 @@ pledge collections. Details in the [memo](reports/CIS_Chicago_Memo.pdf).
 1. **Dashboard**: KPI tiles and five charts; forecast years follow the active scenario
 2. **Inputs**: Form 990 data FY2021–FY2025 with automatic tie-out checks; base-case assumptions, each tagged *Filing* or *Assumption* with its rationale, including the restricted-release switch
 3. **Historical**: growth, funding mix, spending ratios, runway (total vs. unrestricted), volatility
-4. **Forecast**: FY2026–FY2028 recurring revenue, a major-gift switch, structural vs. reported surplus, and an unrestricted/restricted net-asset roll-forward that ties to the reported surplus
-5. **Scenarios**: dropdown (cell C5), all five scenarios side by side, break-even figures and the release range
+4. **Variance**: FY2025 vs FY2024 line by line, a personnel volume/rate split, and a bridge from the FY2024 surplus to the FY2025 deficit
+5. **Forecast**: FY2026–FY2028 recurring revenue, a major-gift switch, structural vs. reported surplus, and an unrestricted/restricted net-asset roll-forward that ties to the reported surplus
+6. **Scenarios**: dropdown (cell C5), all five scenarios side by side, break-even figures and the release range
 
 **Colour key:** blue = number from a filing, yellow = key assumption you can change,
 black = formula, green = link from another tab.
