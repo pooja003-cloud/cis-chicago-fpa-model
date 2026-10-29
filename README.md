@@ -1,9 +1,9 @@
 # Funding Shock Stress Test: Communities In Schools of Chicago
 
 ## Why I built this
-I volunteer as a data science fellow at a grassroots Chicago education nonprofit, which got me interested in how wraparound student-support organizations stay financially sustainable.
+I volunteer as a data science fellow at the Chicago Education Advocacy Cooperative (ChiEAC), which got me interested in how wraparound student-support organizations stay financially sustainable.
 
-[Why CIS of Chicago specifically]
+This started as a case study from ChiEAC's co-founder. I wanted to understand how organizations like CIS stay funded. What kept me digging was a mismatch: CIS's $12.9M of net assets looked comfortable, but half of it ($6.5M) was donor-restricted, mostly pledges not yet collected.
 
 ## The question
 Communities In Schools (CIS) of Chicago connects students in 239 Chicago Public Schools with social, health and enrichment services through about 200 partner organizations. Its expenses rose every year from FY2021 to FY2025, while its revenue swung with large one-time gifts.
@@ -68,14 +68,11 @@ CIS's budget isn't public, so the comparison is FY2025 actual vs FY2024 actual.
 - Expenses grow at a single rate; "students served" is defined differently across years, so no per-student cost is calculated.
 
 ### What I'd do next
-- [Placeholder 1]
-- [Placeholder 2]
+- Monthly cash forecast tied to pledge collections, using CIS's internal data, since $6.4M of pledges receivable drives the runway.
+- Cost per student served, once CIS reports a consistent definition of "students served," to compare cost growth with program reach.
 
 ## Skills this shows
 Liquidity runway analysis, scenario stress testing and restricted vs. unrestricted cash: the same questions a credit analyst asks about any borrower.
-
-## How I used AI
-[Placeholder: one honest sentence]
 
 ## What's inside
 | Path | Contents |
