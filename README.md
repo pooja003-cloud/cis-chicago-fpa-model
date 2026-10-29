@@ -47,6 +47,8 @@ Communities In Schools (CIS) of Chicago connects students in 239 Chicago Public 
 | Cost discipline | Expenses grow 3% instead of 6% | 14.0 mo | 6.9 → 15.7 mo | $1.3M |
 | Combined shock | No gift and government cut | 6.0 mo | (0.6) → 7.5 mo | $2.3M |
 
+![Scenario runway](images/scenario_runway.png)
+
 Runway = unrestricted net assets ÷ monthly expenses. The base case releases existing restricted net assets down to $1.24M (the five-year low); the range shows no release and full release.
 
 ## Variance: what turned a surplus into a deficit (FY2024 → FY2025)
@@ -85,6 +87,7 @@ Liquidity runway analysis, scenario stress testing and restricted vs. unrestrict
 | `data/processed/cis_chicago_990_summary.csv` | Summary figures, FY2018–FY2025 |
 | `data/SOURCES.md` | Sources, tie-out checks and known gaps |
 | `images/dashboard.png` | Dashboard screenshot |
+| `images/scenario_runway.png` | Scenario runway chart with the release range |
 
 ### The workbook
 1. **Dashboard**: KPI tiles and five charts; forecast years follow the active scenario
